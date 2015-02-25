@@ -21,5 +21,3 @@ if (cluster.isMaster) {
             app.get('env').toUpperCase(), app.get('port'));
     });
 }
-
-fuction {alert();}
